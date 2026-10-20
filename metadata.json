@@ -1,0 +1,6 @@
+{
+  "name": "เรือทอง ก๋วยเตี๋ยวเรืออยุธยา | Smart QR & Real-time POS",
+  "description": "ระบบจัดการเมนูร้านก๋วยเตี๋ยวเรือ สั่งอาหารผ่านคิวอาร์โค้ดประจำโต๊ะ และชำระเงินออนไลน์แบบเรียลไทม์ พร้อมระบบจอครัวและแคชเชียร์ POS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
